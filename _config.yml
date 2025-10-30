@@ -1,0 +1,10 @@
+# --- SITE SETTINGS ---
+title: Madani Ahmed Syed
+email: mr.madani1899@gmail.com
+description: Security Engineer with 6+ years of expertise in AppSec, Pentesting...
+github_username: mrmad1899
+linkedin_username: syed-madani-ahmed
+
+# --- THEME PATH FIX (CRITICAL) ---
+url: "https://madanisyed.github.io"
+baseurl: ""
