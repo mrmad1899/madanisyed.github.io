@@ -1,0 +1,113 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Madani Ahmed Syed
+Madani Ahmed Syed
+Application Security Engineer & Penetration Tester
+
+Show Contacts
+
+Email
+mr.madani1899@gmail.com
+
+Phone
++1 (248) 525-2925
+
+Location
+San Diego, California, USA
+
+# navbar
+
+About
+Resume
+Contact
+
+# about
+
+About me
+
+I’m Madani Ahmed Syed, a Cybersecurity Engineer with 6+ years of experience in Application Security and Penetration Testing. I’ve worked with global clients like Nike, Uber, and Vialto Partners, at Accenture & Infosys, helping secure their applications and infrastructure.
+
+I hold a Master’s in Information Studies from Trine University and a CEH certification (OSCP in progress). I also mentor at AppSecFamily and ADPList, where I was named a Top 10 Security Mentor in 2025.
+
+I focus on finding vulnerabilities, improving security posture, and guiding others to build safer systems.
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Application Security
+Safeguarding applications through advanced security assessments and secure-by-design practices.
+
+alt = Web development icon
+Web Penetration Testing
+Identifying and exploiting real-world vulnerabilities to strengthen web application defenses.
+
+alt = mobile app icon
+Mobile Security Testing
+Ensuring mobile apps are resilient against modern threats across Android and iOS platforms.
+
+alt = camera icon
+Mentoring
+Guiding aspiring professionals to excel in cybersecurity and ethical hacking.
+
+
+
+
+# resume
+
+Resume
+
+Education
+
+Osmania University
+2011 — 2015
+Built a strong engineering foundation with a focus on analytical problem-solving and technical innovation.
+
+Trine University
+2023 — 2025
+Advanced expertise in information security, risk management, and emerging cybersecurity technologies.
+
+
+Experience
+
+AppSecFamily, Application Security Program Advisor, Volunteer
+Aug 2025 — Present
+Mentoring professionals and leading community-driven security projects to strengthen real-world AppSec practices.
+
+Infosys, Senior Associate Consultant
+May 2022 — July 2023
+Performed advanced web and API penetration tests for Nike & Vialto Partners clients, uncovering critical vulnerabilities and improving enterprise security posture by 35%.
+
+Accenture, Application Security Analyst
+Sep 2016 — Dec 2021
+Conducted end-to-end application security assessments and collaborated with developers to implement secure coding practices.
+
+My skills
+
+Web Application Penetration Testing
+90%
+Mobile Security Testing
+80%
+Vulnerability Assessment & Reporting
+95%
+Secure Code Review & DevSecOps
+70%
+
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
